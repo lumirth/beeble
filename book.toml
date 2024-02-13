@@ -4,7 +4,7 @@ authors = ["Lukas Unguraitis"]
 language = "en"
 multilingual = false
 src = "src"
-title = "The Hively Beeble"
+title = "Beeble"
 
 # [output.pandoc.profile.pdf] # options to pass to Pandoc (see https://pandoc.org/MANUAL.html#defaults-files)
 # output-file = "output.docx" # output file (within the profile's build directory)
