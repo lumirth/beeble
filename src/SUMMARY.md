@@ -4,9 +4,9 @@
 [Introduction](introduction.md)
 
 - [Work](./work/work.md)
-  - [History](./work/history.md)
-  - [Philosophy](./work/philosophy.md)
-  - [Structure](./work/structure.md)
+  - [History]()
+  - [Philosophy]()
+  - [Structure]()
 - [Play](./play/play.md)
   - [Sets](./play/sets/sets.md)
     - [BDSM](./play/sets/bdsm.md)
