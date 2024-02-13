@@ -1,0 +1,23 @@
+# Summary
+
+[Foreword](foreword.md)
+[Introduction](introduction.md)
+
+- [Work](./work/work.md)
+  - [History](./work/history.md)
+  - [Philosophy](./work/philosophy.md)
+  - [Structure](./work/structure.md)
+- [Play](./play/play.md)
+  - [Sets](./play/sets/sets.md)
+    - [BDSM](./play/sets/bdsm.md)
+    - [Armando](./play/sets/armando.md)
+    - [Expansion Tree]()
+    - [Small Town](./play/sets/small-town.md)
+    - [The Harold]()
+    - [Convergence]()
+    - [Out and Back]()
+    - [Montage]()
+    - [MonoScene]()
+  - [Games]()
+  - [Warmups]()
+  - [Exercises]()

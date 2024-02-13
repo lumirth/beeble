@@ -1,0 +1,33 @@
+[book]
+description = "Hive Society's Handbook"
+authors = ["Lukas Unguraitis"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The Hively Beeble"
+
+# [output.pandoc.profile.pdf] # options to pass to Pandoc (see https://pandoc.org/MANUAL.html#defaults-files)
+# output-file = "output.docx" # output file (within the profile's build directory)
+# to = "docx" # output format
+
+# # # PDF-specific settings
+# # pdf-engine = "pdflatex" # engine to use to produce PDF output
+
+# # `mdbook-pandoc` overrides Pandoc's defaults for the following options to better support mdBooks
+# file-scope = true # parse each file individually before combining
+# number-sections = false # number sections headings
+# standalone = true # produce output with an appropriate header and footer
+# table-of-contents = true # include an automatically generated table of contents
+
+# # Arbitrary other Pandoc options can be specified as they would be in a Pandoc defaults file
+# # (see https://pandoc.org/MANUAL.html#defaults-files) but written in TOML instead of YAML...
+
+# # # For example, to pass variables (https://pandoc.org/MANUAL.html#variables):
+# # [output.pandoc.profile.pdf.variables]
+# # # Set the pandoc variable named 'variable-name' to 'value'
+# # variable-name = "value"
+
+
+[output.html.fold]
+enable = true    # whether or not to enable section folding
+level = 1        # the depth to start folding
