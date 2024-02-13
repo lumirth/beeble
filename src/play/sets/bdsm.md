@@ -6,6 +6,8 @@
 
 BDSM is performed as one great big chain of tag outs. The broad idea is as follows:
 
+---
+
 - Audience suggestion (often of 'grab-bag anything') is taken.
 - Performers stand in a line
 - Two performers move onto the stage to begin the first scene
@@ -17,6 +19,8 @@ BDSM is performed as one great big chain of tag outs. The broad idea is as follo
 - Performers may enter the scene without clapping, acting as a new (to the scene) character
   - Performers are allowed to tag multiple people out at once, though this is only done when the scene has 3+ people.
 - The first few scenes are traditionally longer(~2m) to allow for more material to expand upon later 
+
+---
 
 ### Patterns
 
