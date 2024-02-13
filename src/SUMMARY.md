@@ -22,9 +22,9 @@
   - [Warmups]()
   - [Exercises]()
 - [Archive]()
-  - [Roster?]()
+  <!-- - [Roster?]()
   - [Achievements?]()
   - [Shows?]()
-  - [Reflections?]()
+  - [Reflections?]() -->
 - [Glossary]()
 - [Resources]()
