@@ -1,6 +1,6 @@
 # Armando
 
-![/image/armando.jpg](/image/armando.jpg)\
+![image/armando.jpg](image/armando.jpg)
 *Image by Jamie Ziah.*
 
 An armando is a sweep-based[^1] set built around monologues. Because of the rigid structure the set provides, armandos are a great option for new improvisors. The general structure is as follows:
