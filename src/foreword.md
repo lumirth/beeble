@@ -1,3 +1,7 @@
+
+![logotype](logotype.svg)
+
+---
 # Foreword
 
 Dear reader,
