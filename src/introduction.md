@@ -36,8 +36,10 @@ Hive, due to its unique structure, has a lot of knowledge that needs to get pass
 
 Remember, the Beeble will never be finished. It will never be perfect. Take it into your hands and leave your mark, and let the next generation do the same.
 
-Ex nihilo, lude — from nothing, play.
+## Ex Nihilo - From Nothing
 
-<!-- Ex ludo, lucem — from play, light. -->
+Improv is a craft which, by its very nature, requires one to craft something fantastic directly from nothing. 
 
-<!-- Audete magna — dare to be great. -->
+By consequence, Hive Society reflects this in its efforts. Hive Society was created from nothing. Each team is created from nothing, from people who might otherwise never have met. Each show is spun out of nothing but audience suggestions, the mere soundwaves cast from the mouths of those who came to watch. Each scene is created from nothing but the minds of the performers, and the energy of the room. From nothing, we've built something. Something of substance. Community, camaraderie, and art. 
+
+Ex nihilo. This is the spirit of Hive Society, and it is the spirit of the Beeble. From the void of possibility, from the blank canvas of the stage, we create. From nothing.
