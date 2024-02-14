@@ -36,7 +36,7 @@ Hive, due to its unique structure, has a lot of knowledge that needs to get pass
 
 Remember, the Beeble will never be finished. It will never be perfect. Take it into your hands and leave your mark, and let the next generation do the same.
 
-## Ex Nihilo - From Nothing
+## From Nothing
 
 Improv is a craft which, by its very nature, requires one to craft something fantastic directly from nothing. 
 
