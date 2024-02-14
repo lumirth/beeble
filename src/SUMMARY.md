@@ -1,5 +1,6 @@
 # Summary
 
+[Quickstart](quickstart.md)
 [Foreword](foreword.md)
 [Introduction](introduction.md)
 
