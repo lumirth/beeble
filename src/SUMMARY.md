@@ -11,7 +11,7 @@
   - [Sets](./play/sets/sets.md)
     - [BDSM](./play/sets/bdsm.md)
     - [Armando](./play/sets/armando.md)
-    - [Expansion Tree]()
+    - [Expansion Tree](./play/sets/expansion-tree.md)
     - [Small Town](./play/sets/small-town.md)
     - [The Harold]()
     - [Convergence]()
