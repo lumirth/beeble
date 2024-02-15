@@ -5,7 +5,7 @@
 
 Dear reader,
 
-Welcome to the Beeble, the beating heart of Hive Society Improv. Within these pages exists the collected wisdom of Hive's past, guidance for its present, and aspirations for its future. May the Beeble serve as both our compass and our anchor, both connecting us to the past and guiding us towards what comes next.  Most of all, may it serve as a living document; just as Hive is alive, so should these words be. Feel empowered to take this document into your hands and make it your own. As a group, together, build on our collective story. Correct where we went wrong, and add where you went right. 
+Welcome to the Beeble, the beating heart of Hive Society Improv. Within these pages exists the collected wisdom of Hive's past, guidance for its present, and aspirations for its future. May the Beeble serve as both our compass and our anchor, connecting us to the past and guiding us towards what comes next.  Most of all, may it serve as a living document; just as Hive is alive, so should these words be. Feel empowered to take this document into your hands and make it your own. As a group, together, build on our collective story. Correct where we went wrong, and add where you went right. 
 
 Each new era of Hive Society stands on the shoulders of those who came before. Every team, old and new, is held aloft by the wisdom of their seniors—both of those who remain and of those who've graduated, those who've gone out into the world to live their wonderful, beautiful lives. 
 
