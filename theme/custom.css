@@ -1,0 +1,97 @@
+/* Custom CSS to fix mobile tab bar obscuring content on short screens */
+
+/*
+ * Mobile Navigation Fixed Positioning
+ *
+ * On mobile devices (max-width: 1080px), the navigation buttons should be
+ * fixed to the bottom of the viewport to prevent them from obscuring content
+ * on shorter pages. This provides a more app-like experience and ensures
+ * consistent positioning regardless of content length.
+ */
+
+@media only screen and (max-width: 1080px) {
+    /* Fix the mobile navigation to the bottom of the viewport */
+    .nav-wrapper {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        z-index: 100;
+        margin-block-start: 0;
+
+        /* Add padding to account for safe areas on modern mobile devices */
+        padding-bottom: env(safe-area-inset-bottom, 0px);
+
+        /* Add a subtle background to ensure readability over content */
+        background: linear-gradient(
+            to bottom,
+            transparent 0%,
+            var(--bg) 20%,
+            var(--bg) 100%
+        );
+
+        /* Add some vertical padding for better touch targets */
+        padding-top: 20px;
+        padding-bottom: calc(20px + env(safe-area-inset-bottom, 0px));
+    }
+
+    /*
+     * Content Bottom Padding
+     *
+     * Increase bottom padding to prevent content from being hidden behind
+     * the fixed navigation bar. The calculation accounts for:
+     * - Navigation button height (~90px width, similar height with padding)
+     * - Additional spacing for comfortable reading
+     * - Safe area insets for devices with home indicators
+     */
+    .content {
+        padding-bottom: calc(120px + env(safe-area-inset-bottom, 0px));
+    }
+
+    /*
+     * Ensure navigation buttons are properly positioned within the fixed container
+     * The buttons should maintain their horizontal positioning (left/right)
+     * but now within the fixed bottom bar
+     */
+    .mobile-nav-chapters {
+        /* Ensure buttons maintain proper spacing from edges */
+        margin: 0 10px;
+    }
+
+    .mobile-nav-chapters.previous {
+        /* Keep left-aligned */
+        float: left;
+    }
+
+    .mobile-nav-chapters.next {
+        /* Keep right-aligned */
+        float: right;
+    }
+}
+
+/*
+ * Viewport Meta Tag Enhancement
+ *
+ * While not directly CSS, ensure the HTML includes proper viewport meta tag
+ * and viewport-fit for safe area support:
+ * <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+ *
+ * The viewport-fit=cover ensures safe-area-inset-* values are available.
+ */
+
+/*
+ * Optional: Add subtle shadow to help distinguish nav bar from content
+ * This helps users understand the navigation is a separate, persistent UI element
+ */
+@media only screen and (max-width: 1080px) {
+    .nav-wrapper {
+        box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    /* In dark mode, adjust shadow for better visibility */
+    .coal .nav-wrapper,
+    .navy .nav-wrapper,
+    .ayu .nav-wrapper {
+        box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.3);
+    }
+}
